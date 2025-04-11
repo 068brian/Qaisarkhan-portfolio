@@ -1,0 +1,1130 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kerge Elementor 11.0\n"
+"POT-Creation-Date: 2024-12-17 00:27+0400\n"
+"PO-Revision-Date: 2017-09-26 16:45+0400\n"
+"Last-Translator: \n"
+"Language-Team: LMPixels linar@lmpixels.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x;_c;_nc\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: shortcodes/kerge-core.php:52
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: shortcodes/kerge-core.php:53
+msgid "Kerge"
+msgstr ""
+
+#: shortcodes/kerge-core.php:54
+msgid "Elementor"
+msgstr ""
+
+#: shortcodes/kerge-core.php:260
+msgid "Linearicons Free"
+msgstr ""
+
+#: shortcodes/kerge-core.php:483
+msgid "Pe Icon 7 Stroke"
+msgstr ""
+
+#: shortcodes/kerge-elements.php:32
+msgid "Kerge Elements"
+msgstr ""
+
+#: shortcodes/widgets/kerge-block-title.php:21
+#: shortcodes/widgets/kerge-block-title.php:47
+#: shortcodes/widgets/kerge-clients.php:44
+#: shortcodes/widgets/kerge-contact-form-simple.php:56
+#: shortcodes/widgets/kerge-skills-first-style.php:44
+#: shortcodes/widgets/kerge-skills-second-style.php:44
+#: shortcodes/widgets/kerge-testimonials.php:44
+#: shortcodes/widgets/kerge-timeline.php:44
+msgid "Block Title"
+msgstr ""
+
+#: shortcodes/widgets/kerge-block-title.php:37
+#: shortcodes/widgets/kerge-blog-posts.php:37
+#: shortcodes/widgets/kerge-certificate.php:37
+#: shortcodes/widgets/kerge-clients.php:37
+#: shortcodes/widgets/kerge-contact-form-simple.php:46
+#: shortcodes/widgets/kerge-fun-fact.php:37
+#: shortcodes/widgets/kerge-home-page-first.php:37
+#: shortcodes/widgets/kerge-home-page-second.php:37
+#: shortcodes/widgets/kerge-home-page-third.php:37
+#: shortcodes/widgets/kerge-info-block.php:37
+#: shortcodes/widgets/kerge-infolist.php:37
+#: shortcodes/widgets/kerge-knowledges.php:37
+#: shortcodes/widgets/kerge-portfolio.php:38
+#: shortcodes/widgets/kerge-pricing.php:37
+#: shortcodes/widgets/kerge-quote.php:37
+#: shortcodes/widgets/kerge-service-second.php:37
+#: shortcodes/widgets/kerge-service.php:37
+#: shortcodes/widgets/kerge-skills-first-style.php:37
+#: shortcodes/widgets/kerge-skills-second-style.php:37
+#: shortcodes/widgets/kerge-social-icons.php:37
+#: shortcodes/widgets/kerge-testimonials.php:37
+#: shortcodes/widgets/kerge-timeline.php:37
+msgid "Content"
+msgstr ""
+
+#: shortcodes/widgets/kerge-block-title.php:44
+#: shortcodes/widgets/kerge-certificate.php:44
+#: shortcodes/widgets/kerge-clients.php:65
+#: shortcodes/widgets/kerge-contact-form-simple.php:53
+#: shortcodes/widgets/kerge-home-page-first.php:44
+#: shortcodes/widgets/kerge-home-page-second.php:44
+#: shortcodes/widgets/kerge-home-page-third.php:44
+#: shortcodes/widgets/kerge-infolist.php:45
+#: shortcodes/widgets/kerge-timeline.php:85
+msgid "Title"
+msgstr ""
+
+#: shortcodes/widgets/kerge-block-title.php:46
+#: shortcodes/widgets/kerge-certificate.php:46
+#: shortcodes/widgets/kerge-contact-form-simple.php:55
+#: shortcodes/widgets/kerge-fun-fact.php:57
+#: shortcodes/widgets/kerge-home-page-first.php:46
+#: shortcodes/widgets/kerge-home-page-second.php:46
+#: shortcodes/widgets/kerge-home-page-third.php:46
+#: shortcodes/widgets/kerge-info-block.php:57
+#: shortcodes/widgets/kerge-infolist.php:47
+#: shortcodes/widgets/kerge-service-second.php:59
+#: shortcodes/widgets/kerge-service.php:59
+#: shortcodes/widgets/kerge-skills-first-style.php:57
+#: shortcodes/widgets/kerge-skills-second-style.php:57
+#: shortcodes/widgets/kerge-social-icons.php:72
+#: shortcodes/widgets/kerge-timeline.php:87
+#: shortcodes/widgets/kerge-timeline.php:96
+msgid "Type title here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-blog-posts.php:21
+msgid "Blog Posts"
+msgstr ""
+
+#: shortcodes/widgets/kerge-blog-posts.php:44
+#: shortcodes/widgets/kerge-portfolio.php:45
+msgid "Layout"
+msgstr ""
+
+#: shortcodes/widgets/kerge-blog-posts.php:48
+#: shortcodes/widgets/kerge-portfolio.php:49
+msgid "One Column"
+msgstr ""
+
+#: shortcodes/widgets/kerge-blog-posts.php:49
+#: shortcodes/widgets/kerge-portfolio.php:50
+msgid "Two Columns"
+msgstr ""
+
+#: shortcodes/widgets/kerge-blog-posts.php:50
+#: shortcodes/widgets/kerge-portfolio.php:51
+msgid "Three Columns"
+msgstr ""
+
+#: shortcodes/widgets/kerge-blog-posts.php:58
+msgid "Number of posts to show"
+msgstr ""
+
+#: shortcodes/widgets/kerge-blog-posts.php:60
+msgid "Type number here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-blog-posts.php:62
+msgid "6"
+msgstr ""
+
+#: shortcodes/widgets/kerge-blog-posts.php:69
+#: shortcodes/widgets/kerge-clients.php:83
+#: shortcodes/widgets/kerge-testimonials.php:101
+msgid "Open Website Link in New Tab"
+msgstr ""
+
+#: shortcodes/widgets/kerge-blog-posts.php:71
+msgid "On"
+msgstr ""
+
+#: shortcodes/widgets/kerge-blog-posts.php:72
+msgid "Off"
+msgstr ""
+
+#: shortcodes/widgets/kerge-blog-posts.php:131
+#: shortcodes/widgets/kerge-blog-posts.php:174
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: shortcodes/widgets/kerge-blog-posts.php:219
+#: shortcodes/widgets/kerge-blog-posts.php:227
+msgid "See All Posts"
+msgstr ""
+
+#: shortcodes/widgets/kerge-certificate.php:21
+msgid "Certificate"
+msgstr ""
+
+#: shortcodes/widgets/kerge-certificate.php:54
+msgid "Membership ID"
+msgstr ""
+
+#: shortcodes/widgets/kerge-certificate.php:56
+msgid "Type Membership ID here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-certificate.php:64
+msgid "Date of receipt of the certificate"
+msgstr ""
+
+#: shortcodes/widgets/kerge-certificate.php:66
+msgid "Type Date here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-certificate.php:74
+msgid "Company Logo"
+msgstr ""
+
+#: shortcodes/widgets/kerge-certificate.php:85
+msgid "Certificate Image"
+msgstr ""
+
+#: shortcodes/widgets/kerge-certificate.php:96
+#: shortcodes/widgets/kerge-pricing.php:96
+#: shortcodes/widgets/kerge-social-icons.php:90
+msgid "Link"
+msgstr ""
+
+#: shortcodes/widgets/kerge-certificate.php:130
+msgid "logo"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:21
+#: shortcodes/widgets/kerge-clients.php:47
+msgid "Clients"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:46
+#: shortcodes/widgets/kerge-skills-first-style.php:46
+#: shortcodes/widgets/kerge-skills-second-style.php:46
+#: shortcodes/widgets/kerge-testimonials.php:46
+#: shortcodes/widgets/kerge-timeline.php:46
+msgid "Type block title here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:55
+#: shortcodes/widgets/kerge-timeline.php:112
+msgid "Logo"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:67
+msgid "Type company/client name here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:74
+#: shortcodes/widgets/kerge-testimonials.php:92
+msgid "Website Link"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:76
+#: shortcodes/widgets/kerge-testimonials.php:85
+#: shortcodes/widgets/kerge-testimonials.php:94
+msgid "Type company here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:85
+#: shortcodes/widgets/kerge-clients.php:175
+#: shortcodes/widgets/kerge-clients.php:187
+#: shortcodes/widgets/kerge-contact-form-simple.php:65
+#: shortcodes/widgets/kerge-contact-form-simple.php:97
+#: shortcodes/widgets/kerge-home-page-second.php:115
+#: shortcodes/widgets/kerge-home-page-third.php:115
+#: shortcodes/widgets/kerge-pricing.php:46
+#: shortcodes/widgets/kerge-pricing.php:114
+#: shortcodes/widgets/kerge-testimonials.php:103
+#: shortcodes/widgets/kerge-testimonials.php:183
+#: shortcodes/widgets/kerge-testimonials.php:195
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:86
+#: shortcodes/widgets/kerge-clients.php:176
+#: shortcodes/widgets/kerge-clients.php:188
+#: shortcodes/widgets/kerge-contact-form-simple.php:66
+#: shortcodes/widgets/kerge-contact-form-simple.php:98
+#: shortcodes/widgets/kerge-home-page-second.php:116
+#: shortcodes/widgets/kerge-home-page-third.php:116
+#: shortcodes/widgets/kerge-pricing.php:47
+#: shortcodes/widgets/kerge-pricing.php:115
+#: shortcodes/widgets/kerge-testimonials.php:104
+#: shortcodes/widgets/kerge-testimonials.php:184
+#: shortcodes/widgets/kerge-testimonials.php:196
+msgid "No"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:94
+#: shortcodes/widgets/kerge-skills-first-style.php:88
+#: shortcodes/widgets/kerge-skills-second-style.php:88
+#: shortcodes/widgets/kerge-testimonials.php:112
+#: shortcodes/widgets/kerge-timeline.php:122
+msgid "Tesimonials List"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:99
+msgid "Company 1"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:100
+#: shortcodes/widgets/kerge-clients.php:104
+#: shortcodes/widgets/kerge-clients.php:108
+#: shortcodes/widgets/kerge-clients.php:112
+#: shortcodes/widgets/kerge-clients.php:116
+#: shortcodes/widgets/kerge-clients.php:120
+#: shortcodes/widgets/kerge-clients.php:124
+#: shortcodes/widgets/kerge-home-page-second.php:107
+#: shortcodes/widgets/kerge-home-page-second.php:141
+#: shortcodes/widgets/kerge-home-page-second.php:147
+#: shortcodes/widgets/kerge-home-page-third.php:107
+#: shortcodes/widgets/kerge-home-page-third.php:141
+#: shortcodes/widgets/kerge-home-page-third.php:147
+#: shortcodes/widgets/kerge-testimonials.php:120
+#: shortcodes/widgets/kerge-testimonials.php:126
+#: shortcodes/widgets/kerge-testimonials.php:132
+msgid "http://example.com"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:103
+#: shortcodes/widgets/kerge-clients.php:107
+msgid "Company 3"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:111
+msgid "Company 4"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:115
+msgid "Company 5"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:119
+msgid "Company 6"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:123
+msgid "Company 7"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:136
+#: shortcodes/widgets/kerge-testimonials.php:144
+msgid "Slider Settings"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:143
+#: shortcodes/widgets/kerge-testimonials.php:151
+msgid "Items on the front: Desktop"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:145
+msgid "Example: 5"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:146
+msgid "5"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:153
+#: shortcodes/widgets/kerge-testimonials.php:161
+msgid "Items on the front: Tablet"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:155
+msgid "Example: 4"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:156
+msgid "4"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:163
+#: shortcodes/widgets/kerge-testimonials.php:171
+msgid "Items on the front: Mobile"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:165
+#: shortcodes/widgets/kerge-testimonials.php:153
+#: shortcodes/widgets/kerge-testimonials.php:163
+msgid "Example: 2"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:166
+#: shortcodes/widgets/kerge-testimonials.php:154
+#: shortcodes/widgets/kerge-testimonials.php:164
+msgid "2"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:173
+#: shortcodes/widgets/kerge-testimonials.php:181
+msgid "Infinity Loop"
+msgstr ""
+
+#: shortcodes/widgets/kerge-clients.php:185
+#: shortcodes/widgets/kerge-testimonials.php:193
+msgid "Autoplay"
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:30
+msgid "Contact Form Simple"
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:63
+msgid "Show the Checkbox"
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:75
+#: shortcodes/widgets/kerge-contact-form-simple.php:85
+msgid "Checkbox Text"
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:77
+msgid ""
+"Checkbox text. In this field you can use HTML tags, for example, you can add "
+"a link to any page."
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:87
+msgid "Checkbox error text."
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:95
+msgid "Checkbox Mandatory"
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:132
+msgid "Full Name"
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:132
+msgid "Name is required."
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:138
+msgid "Email Address"
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:138
+msgid "Valid email is required."
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:144
+msgid "Subject"
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:144
+msgid "Subject is required."
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:151
+msgid "Message"
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:151
+msgid "Please, leave me a message."
+msgstr ""
+
+#: shortcodes/widgets/kerge-contact-form-simple.php:182
+msgid "Send message"
+msgstr ""
+
+#: shortcodes/widgets/kerge-fun-fact.php:21
+msgid "Fun Fact"
+msgstr ""
+
+#: shortcodes/widgets/kerge-fun-fact.php:44
+#: shortcodes/widgets/kerge-info-block.php:44
+#: shortcodes/widgets/kerge-service-second.php:44
+#: shortcodes/widgets/kerge-service.php:44
+#: shortcodes/widgets/kerge-social-icons.php:58
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/widgets/kerge-fun-fact.php:55
+msgid "Title of the Fun Fact"
+msgstr ""
+
+#: shortcodes/widgets/kerge-fun-fact.php:58
+msgid "Happy Clients"
+msgstr ""
+
+#: shortcodes/widgets/kerge-fun-fact.php:65
+msgid "Value/Text of the Fun Fact"
+msgstr ""
+
+#: shortcodes/widgets/kerge-fun-fact.php:67
+msgid "Type value/text here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-fun-fact.php:68
+msgid "999+"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-first.php:21
+msgid "Home Page First"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-first.php:54
+msgid "Title Color"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-first.php:67
+#: shortcodes/widgets/kerge-home-page-second.php:55
+#: shortcodes/widgets/kerge-home-page-third.php:55
+msgid "Subtitle"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-first.php:69
+#: shortcodes/widgets/kerge-home-page-second.php:57
+#: shortcodes/widgets/kerge-home-page-third.php:57
+msgid "Type subtitle here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-first.php:76
+#: shortcodes/widgets/kerge-home-page-second.php:64
+#: shortcodes/widgets/kerge-home-page-third.php:64
+msgid "Subtitles"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-first.php:81
+#: shortcodes/widgets/kerge-home-page-second.php:69
+#: shortcodes/widgets/kerge-home-page-third.php:69
+msgid "Web Designer"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-first.php:84
+#: shortcodes/widgets/kerge-home-page-second.php:72
+#: shortcodes/widgets/kerge-home-page-third.php:72
+msgid "Frontend-developer"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-first.php:94
+msgid "Subtitles Color"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-first.php:106
+msgid "Background Image"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-first.php:120
+msgid "Background Image Slideshow. Add Images"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-first.php:128
+msgid "Background Image Slideshow Speed"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-first.php:130
+msgid "Type speed here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-first.php:138
+msgid "Background Mask Color"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:21
+msgid "Home Page Second"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:82
+#: shortcodes/widgets/kerge-home-page-third.php:82
+#: shortcodes/widgets/kerge-quote.php:44
+msgid "Text"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:84
+#: shortcodes/widgets/kerge-home-page-third.php:84
+#: shortcodes/widgets/kerge-info-block.php:67
+#: shortcodes/widgets/kerge-pricing.php:78
+msgid "Type text here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:85
+msgid ""
+"<p>Praesent sed aliquam arcu, non accumsan neque. In odio ante, vulputate ac "
+"magna vel, pharetra lobortis quam. Duis enim tortor, egestas et felis id, "
+"lobortis malesuada magna. Nunc sit amet sagittis nisi, eu semper nisl. Cras "
+"ut dictum nisl. Donec tincidunt eget orci.</p><p>Aliquam mollis, leo nec "
+"commodo facilisis, turpis lorem dapibus erat, sed consectetur nunc nulla ac "
+"elit. Suspendisse dictum id dui mollis auctor. Etiam id sapien neque. Cras "
+"nec rhoncus sem. Mauris metus ligula, varius vel iaculis at, pulvinar "
+"tincidunt magna.</p>"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:93
+#: shortcodes/widgets/kerge-home-page-third.php:93
+msgid "Button title"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:95
+#: shortcodes/widgets/kerge-home-page-third.php:95
+msgid "Type button title here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:97
+#: shortcodes/widgets/kerge-home-page-third.php:97
+msgid "Button"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:103
+#: shortcodes/widgets/kerge-home-page-third.php:103
+msgid "URL"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:105
+#: shortcodes/widgets/kerge-home-page-third.php:105
+msgid "Type URL here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:113
+#: shortcodes/widgets/kerge-home-page-third.php:113
+msgid "Open Link in New Tab."
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:124
+#: shortcodes/widgets/kerge-home-page-third.php:124
+msgid "Button Type."
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:126
+#: shortcodes/widgets/kerge-home-page-third.php:126
+msgid "Primary"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:127
+#: shortcodes/widgets/kerge-home-page-third.php:127
+msgid "Secondary"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:135
+#: shortcodes/widgets/kerge-home-page-third.php:135
+msgid "Buttons"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:140
+#: shortcodes/widgets/kerge-home-page-third.php:140
+msgid "Download CV"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:146
+#: shortcodes/widgets/kerge-home-page-third.php:146
+msgid "Contact"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:159
+#: shortcodes/widgets/kerge-home-page-third.php:159
+#: shortcodes/widgets/kerge-testimonials.php:64
+msgid "Choose Image"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:172
+msgid "Style Section"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:181
+msgid "Title Font Size (px)"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:210
+msgid "Title Font Family"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:223
+msgid "Subtitles Font Size (px)"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:252
+msgid "Subtitle Font Family"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:265
+msgid "Text Font Size (px)"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:294
+msgid "Text Font Family"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:306
+#: shortcodes/widgets/kerge-home-page-third.php:170
+msgid "Display text to the left or right of the image."
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:308
+#: shortcodes/widgets/kerge-home-page-third.php:172
+msgid "Left"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-second.php:309
+#: shortcodes/widgets/kerge-home-page-third.php:173
+msgid "Right"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-third.php:21
+msgid "Home Page Third"
+msgstr ""
+
+#: shortcodes/widgets/kerge-home-page-third.php:85
+msgid ""
+"Fusce tempor magna mi, non egestas velit ultricies nec. Aenean convallis, "
+"risus non condimentum gravida, odio mauris ullamcorper felis, ut venenatis "
+"purus ex eu mi. Quisque imperdiet lacinia urna, a placerat sapien pretium eu."
+msgstr ""
+
+#: shortcodes/widgets/kerge-info-block.php:21
+msgid "Info Block"
+msgstr ""
+
+#: shortcodes/widgets/kerge-info-block.php:55
+msgid "Title of the Info Block"
+msgstr ""
+
+#: shortcodes/widgets/kerge-info-block.php:58
+msgid "San Francisco"
+msgstr ""
+
+#: shortcodes/widgets/kerge-info-block.php:65
+msgid "Text of the Info Block"
+msgstr ""
+
+#: shortcodes/widgets/kerge-infolist.php:21
+#: shortcodes/widgets/kerge-infolist.php:63
+msgid "Info List"
+msgstr ""
+
+#: shortcodes/widgets/kerge-infolist.php:54
+msgid "Text/Value"
+msgstr ""
+
+#: shortcodes/widgets/kerge-infolist.php:56
+msgid "Type text/value here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-infolist.php:68
+msgid "Residence"
+msgstr ""
+
+#: shortcodes/widgets/kerge-infolist.php:69
+msgid "USA"
+msgstr ""
+
+#: shortcodes/widgets/kerge-infolist.php:72
+msgid "e-mail"
+msgstr ""
+
+#: shortcodes/widgets/kerge-infolist.php:73
+msgid "email@example.com"
+msgstr ""
+
+#: shortcodes/widgets/kerge-knowledges.php:21
+#: shortcodes/widgets/kerge-knowledges.php:54
+msgid "Knowledges"
+msgstr ""
+
+#: shortcodes/widgets/kerge-knowledges.php:45
+msgid "Knowledge"
+msgstr ""
+
+#: shortcodes/widgets/kerge-knowledges.php:47
+msgid "Type knowledge here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-knowledges.php:59
+msgid "Marketing"
+msgstr ""
+
+#: shortcodes/widgets/kerge-knowledges.php:62
+msgid "Social Media"
+msgstr ""
+
+#: shortcodes/widgets/kerge-knowledges.php:65
+msgid "Communication"
+msgstr ""
+
+#: shortcodes/widgets/kerge-knowledges.php:68
+msgid "Social Networking"
+msgstr ""
+
+#: shortcodes/widgets/kerge-portfolio.php:22
+msgid "Portfolio"
+msgstr ""
+
+#: shortcodes/widgets/kerge-portfolio.php:52
+msgid "Four Columns"
+msgstr ""
+
+#: shortcodes/widgets/kerge-portfolio.php:53
+msgid "Five Columns"
+msgstr ""
+
+#: shortcodes/widgets/kerge-portfolio.php:76
+msgid "Show Elements"
+msgstr ""
+
+#: shortcodes/widgets/kerge-portfolio.php:152
+msgid "All"
+msgstr ""
+
+#: shortcodes/widgets/kerge-portfolio.php:220
+msgid "image"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:21
+msgid "Pricing"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:44
+msgid "Highlighted"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:56
+msgid "Plan name"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:58
+msgid "Type plane name here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:59
+msgid "Basic"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:66
+msgid "Price"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:68
+msgid "Type price here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:69
+msgid "$128"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:76
+msgid "Price Small Description / Period"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:79
+msgid "per month"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:86
+msgid "Button Text"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:88
+msgid "Type button text here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:89
+msgid "Free Trial"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:101
+#: shortcodes/widgets/kerge-social-icons.php:92
+#: shortcodes/widgets/kerge-social-icons.php:113
+#: shortcodes/widgets/kerge-social-icons.php:127
+msgid "https://your-link.com"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:112
+msgid "Button Type: Primary"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:126
+msgid "Item"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:128
+msgid "Type description item here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:129
+#: shortcodes/widgets/kerge-pricing.php:141
+msgid "Unlimited traffic"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:136
+msgid "Description Items"
+msgstr ""
+
+#: shortcodes/widgets/kerge-pricing.php:144
+msgid "Unlimited disk space"
+msgstr ""
+
+#: shortcodes/widgets/kerge-quote.php:21
+#: shortcodes/widgets/kerge-testimonials.php:55
+msgid "Quote"
+msgstr ""
+
+#: shortcodes/widgets/kerge-quote.php:46
+msgid "Enter quote text"
+msgstr ""
+
+#: shortcodes/widgets/kerge-quote.php:54
+msgid "Author"
+msgstr ""
+
+#: shortcodes/widgets/kerge-quote.php:56
+msgid "Enter the quote author"
+msgstr ""
+
+#: shortcodes/widgets/kerge-quote.php:64
+msgid "Author Link"
+msgstr ""
+
+#: shortcodes/widgets/kerge-quote.php:66
+msgid "Enter the author link"
+msgstr ""
+
+#: shortcodes/widgets/kerge-service-second.php:21
+msgid "Service 2"
+msgstr ""
+
+#: shortcodes/widgets/kerge-service-second.php:57
+#: shortcodes/widgets/kerge-service.php:57
+msgid "Title of the Service"
+msgstr ""
+
+#: shortcodes/widgets/kerge-service-second.php:60
+#: shortcodes/widgets/kerge-service.php:21
+#: shortcodes/widgets/kerge-service.php:60
+msgid "Service"
+msgstr ""
+
+#: shortcodes/widgets/kerge-service-second.php:67
+#: shortcodes/widgets/kerge-service.php:67
+msgid "Description"
+msgstr ""
+
+#: shortcodes/widgets/kerge-service-second.php:69
+#: shortcodes/widgets/kerge-service.php:69
+msgid "Type description here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-service-second.php:70
+msgid ""
+"Pellentesque sit amet libero non nulla tincidunt rhoncus. Nam in feugiat "
+"sapien, id blandit est. Integer vitae ex magna."
+msgstr ""
+
+#: shortcodes/widgets/kerge-service-second.php:77
+#: shortcodes/widgets/kerge-service.php:77
+#: shortcodes/widgets/kerge-social-icons.php:79
+msgid "Icon Color"
+msgstr ""
+
+#: shortcodes/widgets/kerge-service-second.php:89
+msgid "Icon Background Color"
+msgstr ""
+
+#: shortcodes/widgets/kerge-skills-first-style.php:21
+msgid "Skills 1 Style"
+msgstr ""
+
+#: shortcodes/widgets/kerge-skills-first-style.php:47
+#: shortcodes/widgets/kerge-skills-second-style.php:47
+msgid "Skills"
+msgstr ""
+
+#: shortcodes/widgets/kerge-skills-first-style.php:55
+#: shortcodes/widgets/kerge-skills-second-style.php:55
+msgid "Skill Title"
+msgstr ""
+
+#: shortcodes/widgets/kerge-skills-first-style.php:64
+#: shortcodes/widgets/kerge-skills-second-style.php:64
+msgid "Value"
+msgstr ""
+
+#: shortcodes/widgets/kerge-skills-first-style.php:66
+#: shortcodes/widgets/kerge-skills-second-style.php:66
+msgid "Type value here. Example: 99."
+msgstr ""
+
+#: shortcodes/widgets/kerge-skills-first-style.php:76
+#: shortcodes/widgets/kerge-skills-second-style.php:76
+msgid "Skill Color"
+msgstr ""
+
+#: shortcodes/widgets/kerge-skills-first-style.php:93
+#: shortcodes/widgets/kerge-skills-second-style.php:93
+msgid "Web Design"
+msgstr ""
+
+#: shortcodes/widgets/kerge-skills-first-style.php:98
+#: shortcodes/widgets/kerge-skills-second-style.php:98
+msgid "Print Design"
+msgstr ""
+
+#: shortcodes/widgets/kerge-skills-second-style.php:21
+msgid "Skills 2 Style"
+msgstr ""
+
+#: shortcodes/widgets/kerge-social-icons.php:21
+#: shortcodes/widgets/kerge-social-icons.php:100
+msgid "Social Icons"
+msgstr ""
+
+#: shortcodes/widgets/kerge-social-icons.php:44
+msgid "Icons Size"
+msgstr ""
+
+#: shortcodes/widgets/kerge-social-icons.php:70
+msgid "Title of the Social Icon"
+msgstr ""
+
+#: shortcodes/widgets/kerge-social-icons.php:73
+msgid "Example"
+msgstr ""
+
+#: shortcodes/widgets/kerge-social-icons.php:110
+msgid "Twitter"
+msgstr ""
+
+#: shortcodes/widgets/kerge-social-icons.php:124
+msgid "LinkedIn"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:21
+#: shortcodes/widgets/kerge-testimonials.php:47
+msgid "Testimonials"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:57
+msgid "Type quote here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:74
+msgid "Name"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:76
+msgid "Type name here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:83
+#: shortcodes/widgets/kerge-timeline.php:94
+msgid "Company"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:117
+#: shortcodes/widgets/kerge-testimonials.php:123
+#: shortcodes/widgets/kerge-testimonials.php:129
+msgid "Testimonial Text"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:118
+msgid "Julia Hickman"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:119
+msgid "Omni Source"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:124
+msgid "Robert Watkins"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:125
+msgid "Endicott Shoes"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:130
+msgid "Kristin Carroll"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:131
+msgid "Helping Hand"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:173
+msgid "Example: 1"
+msgstr ""
+
+#: shortcodes/widgets/kerge-testimonials.php:174
+msgid "1"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:21
+#: shortcodes/widgets/kerge-timeline.php:47
+msgid "Timeline"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:54
+msgid "Timeline Style"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:58
+msgid "First Style"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:59
+msgid "Second Style"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:68
+msgid "Period"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:70
+msgid "Type period here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:77
+msgid "Period Color"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:103
+msgid "Text/Description"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:105
+msgid "Type text/description here"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:127
+msgid "2016 - Current"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:128
+msgid "Lead Ui/Ux Designer"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:129
+#: shortcodes/widgets/kerge-timeline.php:136
+msgid "Envato"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:130
+#: shortcodes/widgets/kerge-timeline.php:137
+msgid ""
+"Praesent dignissim sollicitudin justo, sed elementum quam lacinia quis. "
+"Phasellus eleifend tristique posuere. Sed vitae dui nec magna."
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:134
+msgid "2013 - 2016"
+msgstr ""
+
+#: shortcodes/widgets/kerge-timeline.php:135
+msgid "Senior Ui/Ux Designer"
+msgstr ""
